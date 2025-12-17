@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/shoppingcart/static/css/main.d036b651.chunk.css",
+    "main.js": "/shoppingcart/static/js/main.71219693.chunk.js",
+    "main.js.map": "/shoppingcart/static/js/main.71219693.chunk.js.map",
+    "runtime-main.js": "/shoppingcart/static/js/runtime-main.52708e56.js",
+    "runtime-main.js.map": "/shoppingcart/static/js/runtime-main.52708e56.js.map",
+    "static/js/2.4e5054d8.chunk.js": "/shoppingcart/static/js/2.4e5054d8.chunk.js",
+    "static/js/2.4e5054d8.chunk.js.map": "/shoppingcart/static/js/2.4e5054d8.chunk.js.map",
+    "index.html": "/shoppingcart/index.html",
+    "precache-manifest.ee70a0ad2c1f8fa61d68a2080f999e22.js": "/shoppingcart/precache-manifest.ee70a0ad2c1f8fa61d68a2080f999e22.js",
+    "service-worker.js": "/shoppingcart/service-worker.js",
+    "static/css/main.d036b651.chunk.css.map": "/shoppingcart/static/css/main.d036b651.chunk.css.map",
+    "static/js/2.4e5054d8.chunk.js.LICENSE.txt": "/shoppingcart/static/js/2.4e5054d8.chunk.js.LICENSE.txt",
+    "static/media/book.jpg": "/shoppingcart/static/media/book.028978f4.jpg",
+    "static/media/smartphone.jpg": "/shoppingcart/static/media/smartphone.67a48767.jpg",
+    "static/media/speaker.jpg": "/shoppingcart/static/media/speaker.4a0dbe85.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.52708e56.js",
+    "static/js/2.4e5054d8.chunk.js",
+    "static/css/main.d036b651.chunk.css",
+    "static/js/main.71219693.chunk.js"
+  ]
+}
